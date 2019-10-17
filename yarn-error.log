@@ -1,0 +1,46 @@
+Arguments: 
+  /Users/donhamiltoniii/.nvm/versions/node/v10.15.0/bin/node /Users/donhamiltoniii/.nvm/versions/node/v10.15.0/bin/yarn add black-jack-dealer-logic
+
+PATH: 
+  /Users/donhamiltoniii/.rvm/gems/ruby-2.3.3/bin:/Users/donhamiltoniii/.rvm/gems/ruby-2.3.3@global/bin:/Users/donhamiltoniii/.rvm/rubies/ruby-2.3.3/bin:/Users/donhamiltoniii/.deno/bin:/Users/donhamiltoniii/.nvm/versions/node/v10.15.0/bin:/Users/donhamiltoniii/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/donhamiltoniii/.rvm/bin
+
+Yarn version: 
+  1.13.0
+
+Node version: 
+  10.15.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/black-jack-dealer-logic: Not found
+      at Request.params.callback [as _callback] (/Users/donhamiltoniii/.nvm/versions/node/v10.15.0/lib/node_modules/yarn/lib/cli.js:66255:18)
+      at Request.self.callback (/Users/donhamiltoniii/.nvm/versions/node/v10.15.0/lib/node_modules/yarn/lib/cli.js:129397:22)
+      at Request.emit (events.js:182:13)
+      at Request.<anonymous> (/Users/donhamiltoniii/.nvm/versions/node/v10.15.0/lib/node_modules/yarn/lib/cli.js:130369:10)
+      at Request.emit (events.js:182:13)
+      at IncomingMessage.<anonymous> (/Users/donhamiltoniii/.nvm/versions/node/v10.15.0/lib/node_modules/yarn/lib/cli.js:130291:12)
+      at Object.onceWrapper (events.js:273:13)
+      at IncomingMessage.emit (events.js:187:15)
+      at endReadableNT (_stream_readable.js:1094:12)
+      at process._tickCallback (internal/process/next_tick.js:63:19)
+
+npm manifest: 
+  {
+    "name": "blackjack-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Don Hamilton III <donhamiltoniii@gmail.com> (https://donhamiltoniii.com)",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

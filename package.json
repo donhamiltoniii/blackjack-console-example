@@ -1,0 +1,15 @@
+{
+  "name": "blackjack-console-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Don Hamilton III <donhamiltoniii@gmail.com> (https://donhamiltoniii.com)",
+  "license": "ISC",
+  "dependencies": {
+    "blackjack-dealer-logic": "^1.1.3",
+    "readline-sync": "^1.4.10"
+  }
+}
